@@ -1,0 +1,27 @@
+Understanding Graph Theory:
+
+    Gain a foundational understanding of graph theory concepts, including vertices, edges, and weighted graphs.
+    Learn about different types of spanning trees and their properties.
+
+Kruskal's Algorithm:
+
+    Comprehend the steps and logic behind Kruskal's algorithm for finding the Minimum Spanning Tree.
+    Analyze how the algorithm leverages sorting and union-find data structures to efficiently construct the MST.
+
+Data Structures:
+
+    Familiarize oneself with essential data structures such as lists, arrays, and the union-find structure, including path compression and union by rank techniques.
+
+Algorithm Implementation:
+
+    Develop skills in implementing algorithms programmatically in a chosen programming language (e.g., Python).
+    Enhance debugging and problem-solving skills by resolving issues that arise during the implementation.
+
+Graph Representation:
+
+    Learn different ways to represent graphs in code, particularly edge lists and adjacency lists, and understand their respective advantages and disadvantages.
+
+GUI Development:
+
+    Acquire knowledge in developing user-friendly graphical user interfaces (GUIs) using libraries such as Tkinter.
+    Understand event-driven programming concepts and how to handle user inputs effectively.
